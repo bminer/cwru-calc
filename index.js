@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	// oh joel
 	$('#plus').on('click', function() {
 		var num1 = $('#num1').val();
 		var num2 = $('#num2').val();
